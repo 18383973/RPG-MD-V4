@@ -102,7 +102,7 @@ global.wm3 = 'VinnXD-Botzラ | By ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `VinnXD-Botzラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×' 
+global.author = 'ᴹᴿ᭄ VinnXD ×፝֟͜×' 
 global.packname = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
@@ -116,7 +116,7 @@ global.thumbs = ['https://telegra.ph/file/f421df95cb9fc160ea66b.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/6754128a274183317a88c.jpg'
-global.botintro = 'Hallo, Kenalin saya DaniBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya VinnXD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ Vincentt ? ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_26/10/2022_'
 global.intro = 'https://telegra.ph/file/6754128a274183317a88c.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
