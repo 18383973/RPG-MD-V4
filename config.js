@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/danibotz_official'
+global.sig = 'https://instagram.com/_'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/YTDANIBOTZ'
+global.sgh = 'https://github.com/18383973'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6281348106274'
+global.swa = 'wa.me/6285878258447'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081348106274'
+global.pdana = '085878258447'
+global.povo = '085878258447'
+global.pgopay = '085878258447'
+global.ppulsa = '085878258447'
+global.ppulsa2 = '085878258447'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936'
-global.nomorown = '6281348106274'
-global.namebot = 'DaniBotzラ'
-global.nameown = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.nomorbot = '6285878258447'
+global.nomorown = '6285878258447'
+global.namebot = 'VinnXD-Botzラ'
+global.nameown = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281348106274', 'ᴹᴿ᭄ DaniXd? ×፝֟͜×', 'true']
+  ['6285878258447', 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,34 +96,34 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'DaniBotzラ | By ᴹᴿ᭄ DaniXd ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
-global.wm3 = 'DaniBotzラ | By ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.wm = 'VinnXD-Botzラ | By ᴹᴿ᭄ Vincentt ? ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
+global.wm3 = 'VinnXD-Botzラ | By ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `DaniBotzラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ DaniXd ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.titlebot = `VinnXD-Botzラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/1ec0cc827e858b7edff6a.jpg'
+global.thumb = 'https://telegra.ph/file/f421df95cb9fc160ea66b.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/f421df95cb9fc160ea66b.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.giflogo2 = 'https://telegra.ph/file/f421df95cb9fc160ea66b.jpg'
+global.thumbs = ['https://telegra.ph/file/f421df95cb9fc160ea66b.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya DaniBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.intro = 'https://telegra.ph/file/6754128a274183317a88c.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.nameowner = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
 global.umurowner = '22'
-global.asalowner = 'Kalimantan, Banjar'
-global.nomorowner = 'wa.me/6281348106274'
-global.pacarowner = 'Kepo amat sih;v'
+global.asalowner = 'Jawa Tengah, Klaten'
+global.nomorowner = 'wa.me/6285878258447'
+global.pacarowner = 'Kepo amat sih 😄'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -372,7 +372,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `DaniXd`
+global.stickauth = `Vincentt ?`
 
 global.multiplier = 38 // The higher, The harder levelup
 
