@@ -1670,7 +1670,7 @@ My name is King Of Bear      
 *ꭙࣼKINGOFBEAR* *ꭙࣼKINGOFBEAR*
 *๑๑๑๑๑๑๑๑* *ꭙࣼKINGOFBEAR*
 *ꭙࣼKINGOFBEAR* *๑๑๑๑๑๑๑๑*
-By _King Of Bear_
+By _VinnXD_
 `;
 
 const virtex = pickRandom([virtex1, virtex2, virtex3])
