@@ -110,12 +110,12 @@ global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/f421df95cb9fc160ea66b.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/f421df95cb9fc160ea66b.jpg'
-global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
+global.giflogo = 'https://i.ibb.co/KyX5hRn/images.jpg'
 global.giflogo2 = 'https://telegra.ph/file/f421df95cb9fc160ea66b.jpg'
 global.thumbs = ['https://telegra.ph/file/f421df95cb9fc160ea66b.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
+global.thumbWarn = 'https://telegra.ph/file/6754128a274183317a88c.jpg'
 global.botintro = 'Hallo, Kenalin saya DaniBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6754128a274183317a88c.jpg'
 /*============== GLOBAL BIO ==============*/
