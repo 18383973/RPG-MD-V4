@@ -123,7 +123,7 @@ global.nameowner = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
 global.umurowner = '15'
 global.asalowner = 'Jawa Tengah, Klaten'
 global.nomorowner = 'wa.me/6285878258447'
-global.pacarowner = '?'
+global.pacarowner = 'Belum paham tentang CINTA 😄'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
