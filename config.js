@@ -120,10 +120,10 @@ global.botintro = 'Hallo, Kenalin saya VinnXD Saya akan membantu Anda kapan pun 
 global.intro = 'https://telegra.ph/file/6754128a274183317a88c.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
-global.umurowner = '22'
+global.umurowner = '15'
 global.asalowner = 'Jawa Tengah, Klaten'
 global.nomorowner = 'wa.me/6285878258447'
-global.pacarowner = 'Kepo amat sih 😄'
+global.pacarowner = '?'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
